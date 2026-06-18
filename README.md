@@ -4,7 +4,9 @@ TITLE: An-Effective-Switching-Table-Based-DTC-of-Five-Phase-PMSM-for-Reduction-o
 Paper ID: 10348
 
 Authors:
-Puli Rajanikanth, Student Member, IEEE and Vinay Kumar Thippiripati, Senior Member, IEEE
+Name: Puli Rajanikanth   Affiliation: National Institute of Technology Warangal, Warangal, Telangana.
+
+Name: Vinay Kumar Thippiripati   Affiliation: National Institute of Technology Warangal, Warangal, Telangana.
 
 About Repository:
 This repository contains the MATLAB simulation files which can be used to reproduce the results presented in our paper titled "An-Effective-Switching-Table-Based-DTC-of-Five-Phase-PMSM-for-Reduction-of-Torque-Ripples".
