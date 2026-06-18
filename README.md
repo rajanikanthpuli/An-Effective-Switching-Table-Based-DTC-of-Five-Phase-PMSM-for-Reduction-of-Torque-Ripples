@@ -4,6 +4,7 @@ TITLE: An-Effective-Switching-Table-Based-DTC-of-Five-Phase-PMSM-for-Reduction-o
 Paper ID: 10348
 
 Authors:
+
 Name: Puli Rajanikanth   Affiliation: National Institute of Technology Warangal, Warangal, Telangana.
 
 Name: Vinay Kumar Thippiripati   Affiliation: National Institute of Technology Warangal, Warangal, Telangana.
