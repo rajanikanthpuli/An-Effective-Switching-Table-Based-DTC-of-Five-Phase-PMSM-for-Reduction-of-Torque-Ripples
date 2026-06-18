@@ -1,5 +1,6 @@
 
 TITLE: An-Effective-Switching-Table-Based-DTC-of-Five-Phase-PMSM-for-Reduction-of-Torque-Ripples
+
 Authors:
 Puli Rajanikanth, Student Member, IEEE and Vinay Kumar Thippiripati, Senior Member, IEEE
 
